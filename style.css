@@ -1,0 +1,29 @@
+.container {
+  position: relative;
+  text-align: center;
+}
+.centered-name {
+  position: absolute;
+}
+.nav {
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.first-text-row {
+  background-color: #324153;
+}
+.second-text-row {
+  background-color: #547186;
+}
+.third-text-row {
+  background-color: #e4e4e4;
+}
+.headshot {
+  height: 30vh;
+  border-radius: 50%;
+  margin-top: -150px;
+}
+/* .text-lighter {
+  color: #e4e4e4;
+} */
